@@ -1,12 +1,13 @@
 
-# Hi there 👋
- ⚡I'm learning __System Analysis and Development__ on PUC Minas.
+# Olá 👋
+ ⚡Estudando __Análise e Desenvolvimento de Sistemas__ na PUC Minas.
  <br>
  <br>
- ⚡Currently:
+ ⚡Atualmente:
  <br>
  <br>
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <br>
  <br>
  ![Jvicentemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvicentemelo&show_icons=true&theme=merko)
