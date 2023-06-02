@@ -10,8 +10,8 @@
  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <br>
  <br>
- ![Jvicentemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvicentemelo&show_icons=true&theme=merko)
-<!--
+ <!--![Jvicentemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvicentemelo&show_icons=true&theme=merko)
+
 **Jvicentemelo/Jvicentemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
