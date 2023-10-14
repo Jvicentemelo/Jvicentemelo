@@ -1,6 +1,6 @@
 
 # Olá 👋
- ⚡Estudando __Análise e Desenvolvimento de Sistemas__ na PUC Minas.
+ ⚡__Análise e Desenvolvimento de Sistemas__ na PUC Minas.
  <br>
  <br>
  ⚡Atualmente:
